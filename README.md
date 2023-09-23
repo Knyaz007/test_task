@@ -1,1 +1,1 @@
-# PythonApplication1
+Проект на Pyhton Созданый в Visual Studio 2022
